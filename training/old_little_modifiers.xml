@@ -1,0 +1,7 @@
+<AddressCollection>
+  <AddressString><AddressNumber>34</AddressNumber> <StreetNamePreModifier>LITTLE</StreetNamePreModifier> <StreetNamePreDirectional>W</StreetNamePreDirectional> <StreetName>12</StreetName> <StreetNamePostType>ST</StreetNamePostType></AddressString>
+  <AddressString><AddressNumber>1</AddressNumber> <StreetNamePreModifier>LITTLE</StreetNamePreModifier> <StreetNamePreDirectional>W</StreetNamePreDirectional> <StreetName>15</StreetName> <StreetNamePostType>ST</StreetNamePostType></AddressString>
+  <AddressString><AddressNumber>12</AddressNumber> <StreetNamePreModifier>OLD</StreetNamePreModifier> <StreetNamePreDirectional>W</StreetNamePreDirectional> <StreetName>15</StreetName> <StreetNamePostType>ST</StreetNamePostType></AddressString>
+  <AddressString><AddressNumber>8</AddressNumber> <StreetNamePreModifier>LITTLE</StreetNamePreModifier> <StreetNamePreDirectional>E</StreetNamePreDirectional> <StreetName>14</StreetName> <StreetNamePostType>ST</StreetNamePostType></AddressString>
+  <AddressString><AddressNumber>54</AddressNumber> <StreetNamePreModifier>OLD</StreetNamePreModifier> <StreetNamePreDirectional>N</StreetNamePreDirectional> <StreetName>20</StreetName> <StreetNamePostType>ST</StreetNamePostType></AddressString>
+</AddressCollection>
